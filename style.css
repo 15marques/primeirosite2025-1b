@@ -1,3 +1,6 @@
 body {
-    background-color: rgb(94, 10, 27);
+    background-color: rgba(140, 14, 39, 0.924);
+    color:rgb(70, 11, 23);
+    font-family: 'sans-serif', Times, serif;
+    margin-bottom: 100px;
 }
